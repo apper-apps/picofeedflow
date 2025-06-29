@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "isActive": true,
+    "lastFetched": "2024-01-15T10:30:00Z",
+    "errorCount": 0,
+    "articleCount": 245,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "BBC News Technology",
+    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "isActive": true,
+    "lastFetched": "2024-01-15T10:25:00Z",
+    "errorCount": 1,
+    "articleCount": 189,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-15T10:25:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "isActive": true,
+    "lastFetched": "2024-01-15T10:20:00Z",
+    "errorCount": 0,
+    "articleCount": 156,
+    "createdAt": "2024-01-02T00:00:00Z",
+    "updatedAt": "2024-01-15T10:20:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "isActive": false,
+    "lastFetched": "2024-01-14T15:45:00Z",
+    "errorCount": 3,
+    "articleCount": 98,
+    "createdAt": "2024-01-03T00:00:00Z",
+    "updatedAt": "2024-01-14T15:45:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Wired",
+    "url": "https://www.wired.com/feed/rss",
+    "isActive": true,
+    "lastFetched": "2024-01-15T09:15:00Z",
+    "errorCount": 0,
+    "articleCount": 134,
+    "createdAt": "2024-01-04T00:00:00Z",
+    "updatedAt": "2024-01-15T09:15:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Reuters Technology",
+    "url": "https://feeds.reuters.com/reuters/technologyNews",
+    "isActive": true,
+    "lastFetched": "2024-01-15T10:10:00Z",
+    "errorCount": 2,
+    "articleCount": 203,
+    "createdAt": "2024-01-05T00:00:00Z",
+    "updatedAt": "2024-01-15T10:10:00Z"
+  }
+]
