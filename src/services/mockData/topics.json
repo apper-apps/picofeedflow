@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "Technology",
+    "description": "Latest developments in technology, AI, software development, and digital innovation",
+    "articleCount": 3,
+    "color": "#3B82F6",
+    "icon": "laptop",
+    "isActive": true,
+    "createdAt": "1/1/2024 12:00:00 AMZ",
+    "updatedAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Health",
+    "description": "Health, wellness, medical research, and lifestyle medicine topics",
+    "articleCount": 2,
+    "color": "#10B981",
+    "icon": "heart",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-12T16:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Politics",
+    "description": "Political news, policy analysis, and government affairs",
+    "articleCount": 1,
+    "color": "#DC2626",
+    "icon": "flag",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Business",
+    "description": "Business news, entrepreneurship, market analysis, and corporate trends",
+    "articleCount": 2,
+    "color": "#7C3AED",
+    "icon": "briefcase",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-10T13:30:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Science",
+    "description": "Scientific discoveries, research findings, and technological breakthroughs",
+    "articleCount": 2,
+    "color": "#059669",
+    "icon": "microscope",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-09T08:45:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Lifestyle",
+    "description": "Lifestyle tips, personal development, and life improvement strategies",
+    "articleCount": 2,
+    "color": "#DB2777",
+    "icon": "smile",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-14T14:45:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Finance",
+    "description": "Financial markets, investment strategies, and economic analysis",
+    "articleCount": 1,
+    "color": "#D97706",
+    "icon": "dollar-sign",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-11T11:00:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Education",
+    "description": "Educational trends, learning methodologies, and academic research",
+    "articleCount": 1,
+    "color": "#2563EB",
+    "icon": "book",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-07T12:25:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Food",
+    "description": "Culinary arts, food culture, nutrition, and dining experiences",
+    "articleCount": 2,
+    "color": "#EA580C",
+    "icon": "utensils",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-06T17:40:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Sports",
+    "description": "Sports news, athlete profiles, and competitive analysis",
+    "articleCount": 0,
+    "color": "#16A34A",
+    "icon": "trophy",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "11",
+    "name": "Entertainment",
+    "description": "Movies, music, celebrity news, and pop culture trends",
+    "articleCount": 0,
+    "color": "#BE185D",
+    "icon": "film",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "12",
+    "name": "Travel",
+    "description": "Travel destinations, cultural experiences, and tourism insights",
+    "articleCount": 0,
+    "color": "#0891B2",
+    "icon": "map",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]
