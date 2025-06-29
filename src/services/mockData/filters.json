@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Technology News",
+    "keywords": ["tech", "technology", "AI", "software", "programming", "startup"],
+    "description": "Filter for technology and software related articles",
+    "isActive": true,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-15T10:30:00Z",
+    "priority": 1,
+    "category": "technology"
+  },
+  {
+    "id": "2",
+    "name": "Business & Finance",
+    "keywords": ["business", "finance", "economy", "market", "investment", "stock"],
+    "description": "Filter for business and financial news",
+    "isActive": true,
+    "createdAt": "2024-01-16T09:15:00Z",
+    "updatedAt": "2024-01-16T09:15:00Z",
+    "priority": 2,
+    "category": "business"
+  },
+  {
+    "id": "3",
+    "name": "Sports Updates",
+    "keywords": ["sports", "football", "basketball", "baseball", "soccer", "olympics"],
+    "description": "Filter for sports news and updates",
+    "isActive": true,
+    "createdAt": "2024-01-17T14:20:00Z",
+    "updatedAt": "2024-01-17T14:20:00Z",
+    "priority": 3,
+    "category": "sports"
+  },
+  {
+    "id": "4",
+    "name": "Health & Science",
+    "keywords": ["health", "medicine", "science", "research", "study", "medical"],
+    "description": "Filter for health and scientific articles",
+    "isActive": false,
+    "createdAt": "2024-01-18T11:45:00Z",
+    "updatedAt": "2024-01-18T11:45:00Z",
+    "priority": 4,
+    "category": "health"
+  },
+  {
+    "id": "5",
+    "name": "Environment & Climate",
+    "keywords": ["environment", "climate", "green", "renewable", "sustainability", "eco"],
+    "description": "Filter for environmental and climate news",
+    "isActive": true,
+    "createdAt": "2024-01-19T16:30:00Z",
+    "updatedAt": "2024-01-19T16:30:00Z",
+    "priority": 5,
+    "category": "environment"
+  }
+]
